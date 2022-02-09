@@ -1,4 +1,3 @@
 # Basic-Banking-System
-
-Khushi zope 
+Saloni Yerawar 
 The Spark Foundation (GRIP)
